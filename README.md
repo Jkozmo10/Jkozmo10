@@ -1,4 +1,4 @@
-Hi! My name is Jeremy Kozlowski, and I am currently a fourth-year master's student at California Polytechnic State University in San Luis Obispo studying computer science. 
+Hi! My name is Jeremy Kozlowski, and I am currently a fifth-year master's student at California Polytechnic State University in San Luis Obispo studying computer science. 
 
 I am interested in:
 
